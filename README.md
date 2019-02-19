@@ -1,4 +1,4 @@
-# Zombie Plague
+# Zombie Plague  <img src="./version.svg">
 Counter-Strike modification
 
 ## What is this?
