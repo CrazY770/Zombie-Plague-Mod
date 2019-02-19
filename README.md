@@ -1,4 +1,4 @@
-# Zombie Plague  <img src="./version.svg">
+# Zombie Plague <img src="./version.svg"> [<img src="./license.svg">](https://www.gnu.org/licenses/gpl-3.0)
 Counter-Strike modification
 
 ## What is this?
