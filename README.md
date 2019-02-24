@@ -1,10 +1,4 @@
-<p>
-	<h1>Zombie Plague</h1>
-	<a href="./LICENSE">
-		<img src="https://img.shields.io/github/license/CrazY770/Zombie-Plague-Mod.svg" alt="License" /></a>
-	<a href="./LICENSE">
-		<img src="https://img.shields.io/github/license/CrazY770/Zombie-Plague-Mod.svg" alt="License" /></a>
-</p>
+# Zombie Plague [![version](https://img.shields.io/github/release/CrazY770/Zombie-Plague-Mod.svg)](https://github.com/CrazY770/Zombie-Plague-Mod/releases) [![license](https://img.shields.io/github/license/CrazY770/Zombie-Plague-Mod.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Counter-Strike modification
 
