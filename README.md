@@ -1,4 +1,11 @@
-# Zombie Plague <img src="./version.svg"> [<img src="./license.svg">](https://www.gnu.org/licenses/gpl-3.0)
+<p>
+	<h1>Zombie Plague</h1>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/CrazY770/Zombie-Plague-Mod.svg" alt="License" /></a>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/CrazY770/Zombie-Plague-Mod.svg" alt="License" /></a>
+</p>
+
 Counter-Strike modification
 
 ## What is this?
